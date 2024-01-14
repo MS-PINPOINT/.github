@@ -9,7 +9,7 @@ We are part of the [MS-PINPOINT](https://www.ms-pinpoint.com) group at Universit
 - 🔬 Bridging neurology and computer science for impactful research.
 - 🧠 Creating digital tools for better MS patient care.
 
-### We are at 
+### We are at
 
 - 🤝  [UCL Queen Square Multiple Sclerosis Centre ](https://www.ucl.ac.uk/ion/research/research-centres/queen-square-multiple-sclerosis-centre).
 - 🤝  [Centre for Medical Image Computing](https://www.ucl.ac.uk/computer-science/research/research-groups/centre-medical-image-computing).
