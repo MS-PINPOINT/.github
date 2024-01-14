@@ -11,8 +11,8 @@ We are part of the [MS-PINPOINT](https://www.ms-pinpoint.com) group at Universit
 
 ### We are at
 
-- 🤝  [UCL Queen Square Multiple Sclerosis Centre ](https://www.ucl.ac.uk/ion/research/research-centres/queen-square-multiple-sclerosis-centre).
-- 🤝  [Centre for Medical Image Computing](https://www.ucl.ac.uk/computer-science/research/research-groups/centre-medical-image-computing).
+- 🤝  [UCL Queen Square Multiple Sclerosis Centre](https://www.ucl.ac.uk/ion/research/research-centres/queen-square-multiple-sclerosis-centre)
+- 🤝  [Centre for Medical Image Computing](https://www.ucl.ac.uk/computer-science/research/research-groups/centre-medical-image-computing)
 
 ### Here You Will Find
 
