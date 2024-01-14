@@ -1,4 +1,4 @@
-# Welcome to the MS-PINPOINT Research Group's GitHub Profile
+# MS-PINPOINT Research Group's GitHub Profile
 
 ## About Us
 
@@ -16,7 +16,9 @@ We are part of the [MS-PINPOINT](https://www.ms-pinpoint.com) group at Universit
 - 📈 Advanced data analysis methods.
 - 🤖 Machine learning in medical imaging applications.
 
+
 ### Connect With Us
+- 💬 Start a discussion by clicking on the `Start a new discussion` on the right side of this web page
 
 - 📧 [Email](mailto:a.eshaghi@ucl.ac.uk)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/armaneshaghi/)
