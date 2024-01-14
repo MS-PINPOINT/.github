@@ -20,8 +20,8 @@ We are part of the [MS-PINPOINT](https://www.ms-pinpoint.com) group at Universit
 
 
 ### Connect With Us
-
-- 💬 Start a discussion by clicking on the `Start a new discussion` on the right side of this web page
+- 💬 Start any discussion by joining our [Discord server](https://discord.gg/B2QScCFv93)
+- 💬 Start a discussion about a scientific idea or oru software by clicking on the `Start a new discussion` on the right side of this web page
 - 📧 [Email](mailto:a.eshaghi@ucl.ac.uk)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/armaneshaghi/)
 - 🌐 [MS-PINPOINT Website](https://www.ms-pinpoint.com)
