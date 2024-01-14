@@ -22,7 +22,7 @@ We are part of the [MS-PINPOINT](https://www.ms-pinpoint.com) group at Universit
 - 🔗 [LinkedIn](https://www.linkedin.com/in/armaneshaghi/)
 - 🌐 [MS-PINPOINT Website](https://www.ms-pinpoint.com)
 
-![UCL Campus](URL-to-UCL-Campus-Image)  <!-- Replace with an image URL of UCL Campus -->
+![UCL Queen Square Institute of Neurology and the National Hospital for Neurology and Neurosurgery](https://github.com/armaneshaghi/ms-pinpoint/assets/ucl.png)
 
 ---
 
