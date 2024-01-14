@@ -15,11 +15,13 @@ We are part of the [MS-PINPOINT](https://www.ms-pinpoint.com) group at Universit
 - 📚 Projects and research in computational neurology.
 - 📈 Advanced data analysis methods.
 - 🤖 Machine learning in medical imaging applications.
+- 🧠 Aritificial intelligence (AI) for language understanding 
+- 🏥 Advanced AI for multisource data modelling in real-world hospital settings
 
 
 ### Connect With Us
-- 💬 Start a discussion by clicking on the `Start a new discussion` on the right side of this web page
 
+- 💬 Start a discussion by clicking on the `Start a new discussion` on the right side of this web page
 - 📧 [Email](mailto:a.eshaghi@ucl.ac.uk)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/armaneshaghi/)
 - 🌐 [MS-PINPOINT Website](https://www.ms-pinpoint.com)
