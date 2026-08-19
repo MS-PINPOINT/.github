@@ -4,7 +4,7 @@
 
 We are the [MS-PINPOINT](https://www.ms-pinpoint.com) group and the **DreaMS Lab**, dedicated to computational neurology and enhancing care for Multiple Sclerosis. 
 
-As of 2026, our core team has transitioned to **King's College London**, supported by an 8-year funding award from **Wellcome**.
+Currently based at **University College London (UCL)**, our core team will be transitioning to **King's College London** in **July 2027**, supported by an 8-year funding award from **Wellcome**.
 
 ### Our Mission
 
@@ -13,9 +13,9 @@ As of 2026, our core team has transitioned to **King's College London**, support
 
 ### We are at
 
-- 🤝 **DreaMS Lab**, Department of Biostatistics and Health Informatics
-- 🤝 Institute of Psychiatry, Psychology & Neuroscience (IoPPN) at **King's College London**
-- *(Historically based at the UCL Queen Square Multiple Sclerosis Centre)*
+- 🤝 [UCL Queen Square Multiple Sclerosis Centre](https://www.ucl.ac.uk/ion/research/research-centres/queen-square-multiple-sclerosis-centre)
+- 🤝 [UCL Hawkes Institute](https://www.ucl.ac.uk/) *(formerly the Centre for Medical Image Computing)*
+- ➡️ *Future Home (July 2027):* **DreaMS Lab**, Department of Biostatistics and Health Informatics, Institute of Psychiatry, Psychology & Neuroscience (IoPPN) at **King's College London**
 
 ### Here You Will Find
 
@@ -24,7 +24,6 @@ As of 2026, our core team has transitioned to **King's College London**, support
 - 🤖 Machine learning in medical imaging applications.
 - 🧠 Artificial intelligence (AI) for language understanding.
 - 🏥 Advanced AI for multisource data modelling in real-world hospital settings.
-
 
 ### Connect With Us
 - 💬 Start any discussion by joining our [Discord server](https://discord.gg/B2QScCFv93)
