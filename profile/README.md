@@ -1,36 +1,36 @@
-# MS-PINPOINT Research Group's GitHub Profile
+# MS-PINPOINT Research Group & DreaMS Lab
 
 ## About Us
 
-We are part of the [MS-PINPOINT](https://www.ms-pinpoint.com) group at University College London, dedicated to computational neurology and enhancing care for Multiple Sclerosis.
+We are the [MS-PINPOINT](https://www.ms-pinpoint.com) group and the **DreaMS Lab**, dedicated to computational neurology and enhancing care for Multiple Sclerosis. 
+
+As of 2026, our core team has transitioned to **King's College London**, supported by an 8-year funding award from **Wellcome**.
 
 ### Our Mission
 
-- 🔬 Bridging neurology and computer science for impactful research.
-- 🧠 Creating digital tools for better MS patient care.
+- 🔬 Bridging neurology, biostatistics, and computer science for impactful research.
+- 🧠 Creating digital tools and AI models for better MS patient care.
 
 ### We are at
 
-- 🤝  [UCL Queen Square Multiple Sclerosis Centre](https://www.ucl.ac.uk/ion/research/research-centres/queen-square-multiple-sclerosis-centre)
-- 🤝  [Centre for Medical Image Computing](https://www.ucl.ac.uk/computer-science/research/research-groups/centre-medical-image-computing)
+- 🤝 **DreaMS Lab**, Department of Biostatistics and Health Informatics
+- 🤝 Institute of Psychiatry, Psychology & Neuroscience (IoPPN) at **King's College London**
+- *(Historically based at the UCL Queen Square Multiple Sclerosis Centre)*
 
 ### Here You Will Find
 
 - 📚 Projects and research in computational neurology.
 - 📈 Advanced data analysis methods.
 - 🤖 Machine learning in medical imaging applications.
-- 🧠 Aritificial intelligence (AI) for language understanding 
-- 🏥 Advanced AI for multisource data modelling in real-world hospital settings
+- 🧠 Artificial intelligence (AI) for language understanding.
+- 🏥 Advanced AI for multisource data modelling in real-world hospital settings.
 
 
 ### Connect With Us
 - 💬 Start any discussion by joining our [Discord server](https://discord.gg/B2QScCFv93)
 - 💬 [Start a discussion](https://github.com/MS-PINPOINT/.github/discussions/new) about a scientific idea or our software (needs Github account)
-- 📧 [Email](mailto:a.eshaghi@ucl.ac.uk)
-- 🔗 [LinkedIn](https://www.linkedin.com/in/armaneshaghi/)
+- 🔗 [LinkedIn (Arman Eshaghi)](https://www.linkedin.com/in/armaneshaghi/)
 - 🌐 [MS-PINPOINT Website](https://www.ms-pinpoint.com)
-
-![UCL Queen Square Institute of Neurology and the National Hospital for Neurology and Neurosurgery](assets/ucl_campus.jpeg)
 
 ---
 
